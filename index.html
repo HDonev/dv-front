@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body class="background">
+    <div class="container-fluid">
+        <div class="double bg">
+            <img class=" mx-auto d-block" src="assets/img/logoS.png" style="max-width: 100%; height: auto;">
+        </div>
+        <div class="d-grid gap-2 col-1 mx-auto">
+            <!-- <hr class="hr-center"> -->
+        </div>
+        <span class="span-home-first">Информационна система <hr class="hr-center"></span>
+       
+        <span class="span-home-second">"Домашно насилие и насилие,<br>&nbsp;основано на пола"</span>
+        <div class="d-grid gap-2 col-1 mx-auto">
+            <button class="btn btn-success btn-home" type="button" onclick="login()">Вход</button>
+        </div>
+
+    </div>
+
+    <!--Start Message  modal-->
+    <div class="modal modal-message fade" id="modalForMessages" data-bs-backdrop="static" data-bs-keyboard="false"
+        tabindex="-1" aria-labelledby="message" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                </div>
+                <div class="modal-body">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-light" data-bs-dismiss="modal">Затвори</button>
+                    <button type="button" class="btn btn-success" id="redirectToEditLogin">Продължи</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End Message Modal-->
+
+    <!-- Start Footer -->
+    <footer class="footer footerHeight container-fluid" id="main_footer"></footer>
+    <!-- End Footer -->
+
+    <script src="assets/jQuery/jquery-3.7.1.js"></script>
+    <script src="../assets/bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="assets/js/loggin.js"></script>
+    <script src="assets/js/common.js"></script>
+</body>
+
+</html>

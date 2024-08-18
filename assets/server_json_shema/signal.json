@@ -1,0 +1,581 @@
+{
+	"ddList": [
+	  {
+		"sid_o": 0,
+		"pnr_o": 0,
+		"vid_dk": 0,
+		"vid_dd": 0,
+		"reg_nom": "string",
+		"pod_reg": 0,
+		"otnosno": "string",
+		"mrk_akt": "string",
+		"dat_vav": "2024-02-28",
+		"ddOpList": [
+		  {
+			"sid_o": 0,
+			"pnr_o": 0,
+			"pnr_d": 0,
+			"dtip": 0,
+			"stoinost": 0,
+			"mrk_akt": "string",
+			"dat_vav": "2024-02-28",
+			"opisanie": "string",
+			"operation": "string"
+		  }
+		],
+		"fdv": {
+		  "sid_f": 0,
+		  "pnr_f": 0,
+		  "fact": 0,
+		  "cod_t": 0,
+		  "sid_o": 0,
+		  "pnr_o": 0,
+		  "rol_o": 0,
+		  "mrk_akt": "string",
+		  "podsist": 0,
+		  "dat": "2024-02-28",
+		  "cas": {
+			"hour": 0,
+			"minute": 0,
+			"second": 0,
+			"nano": 0
+		  },
+		  "operation": "string",
+		  "fdvOpList": [
+			{
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "pnr_d": 0,
+			  "cod_t": 0,
+			  "dtip": 0,
+			  "stoinost": 0,
+			  "opisanie": "string",
+			  "mrk_akt": "string",
+			  "dat_vav": "2024-02-28",
+			  "operation": "string"
+			}
+		  ]
+		},
+		"operation": "string"
+	  }
+	],
+	"personList": [
+	  {
+		"fdv": {
+		  "sid_f": 0,
+		  "pnr_f": 0,
+		  "fact": 0,
+		  "cod_t": 0,
+		  "sid_o": 0,
+		  "pnr_o": 0,
+		  "rol_o": 0,
+		  "mrk_akt": "string",
+		  "podsist": 0,
+		  "dat": "2024-02-28",
+		  "cas": {
+			"hour": 0,
+			"minute": 0,
+			"second": 0,
+			"nano": 0
+		  },
+		  "operation": "string",
+		  "fdvOpList": [
+			{
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "pnr_d": 0,
+			  "cod_t": 0,
+			  "dtip": 0,
+			  "stoinost": 0,
+			  "opisanie": "string",
+			  "mrk_akt": "string",
+			  "dat_vav": "2024-02-28",
+			  "operation": "string"
+			}
+		  ]
+		},
+		"sid_o": 0,
+		"pnr_o": 0,
+		"pol": 0,
+		"pol_txt": "string",
+		"dat_vav": "2024-02-28",
+		"mrk_akt": "string",
+		"photo": {
+		  "sid_o": 0,
+		  "photo": "string",
+		  "operation": "string"
+		},
+		"addresses": [
+		  {
+			"fdv": {
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "fact": 0,
+			  "cod_t": 0,
+			  "sid_o": 0,
+			  "pnr_o": 0,
+			  "rol_o": 0,
+			  "mrk_akt": "string",
+			  "podsist": 0,
+			  "dat": "2024-02-28",
+			  "cas": {
+				"hour": 0,
+				"minute": 0,
+				"second": 0,
+				"nano": 0
+			  },
+			  "operation": "string",
+			  "fdvOpList": [
+				{
+				  "sid_f": 0,
+				  "pnr_f": 0,
+				  "pnr_d": 0,
+				  "cod_t": 0,
+				  "dtip": 0,
+				  "stoinost": 0,
+				  "opisanie": "string",
+				  "mrk_akt": "string",
+				  "dat_vav": "2024-02-28",
+				  "operation": "string"
+				}
+			  ]
+			},
+			"sid_o": 0,
+			"pnr_o": 0,
+			"eknm": 0,
+			"kod_ul": 0,
+			"nomer": "string",
+			"vhod": "string",
+			"mrk_akt": "string",
+			"dat_vav": "2024-02-28",
+			"fadDop": {
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "pod_adr": 0,
+			  "vid_adr": 0,
+			  "etaj": "string",
+			  "apart": "string",
+			  "mrk_akt": "string",
+			  "opisanie": "string",
+			  "operation": "string"
+			},
+			"operation": "string"
+		  }
+		],
+		"nicknames": [
+		  {
+			"sid_o": 0,
+			"pnr_d": 0,
+			"cod_t": 0,
+			"priakor": "string",
+			"dat_vav": "2024-02-28",
+			"mrk_akt": "string",
+			"operation": "string"
+		  }
+		],
+		"personSlovesnoList": [
+		  {
+			"sid_o": 0,
+			"pnr_o": 0,
+			"pnr_d": 0,
+			"cod_t": 0,
+			"dtip": 0,
+			"dtip_txt": "string",
+			"stoinost": 0,
+			"opisanie": "string",
+			"dat_vav": "2024-02-28",
+			"mrk_akt": "string",
+			"operation": "string"
+		  }
+		],
+		"operation": "string",
+		"TYPE_OBJECT": "string"
+	  },
+	  {
+		"fdv": {
+		  "sid_f": 0,
+		  "pnr_f": 0,
+		  "fact": 0,
+		  "cod_t": 0,
+		  "sid_o": 0,
+		  "pnr_o": 0,
+		  "rol_o": 0,
+		  "mrk_akt": "string",
+		  "podsist": 0,
+		  "dat": "2024-02-28",
+		  "cas": {
+			"hour": 0,
+			"minute": 0,
+			"second": 0,
+			"nano": 0
+		  },
+		  "operation": "string",
+		  "fdvOpList": [
+			{
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "pnr_d": 0,
+			  "cod_t": 0,
+			  "dtip": 0,
+			  "stoinost": 0,
+			  "opisanie": "string",
+			  "mrk_akt": "string",
+			  "dat_vav": "2024-02-28",
+			  "operation": "string"
+			}
+		  ]
+		},
+		"sid_o": 0,
+		"pnr_o": 0,
+		"pol": 0,
+		"pol_txt": "string",
+		"dat_vav": "2024-02-28",
+		"mrk_akt": "string",
+		"photo": {
+		  "sid_o": 0,
+		  "photo": "string",
+		  "operation": "string"
+		},
+		"addresses": [
+		  {
+			"fdv": {
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "fact": 0,
+			  "cod_t": 0,
+			  "sid_o": 0,
+			  "pnr_o": 0,
+			  "rol_o": 0,
+			  "mrk_akt": "string",
+			  "podsist": 0,
+			  "dat": "2024-02-28",
+			  "cas": {
+				"hour": 0,
+				"minute": 0,
+				"second": 0,
+				"nano": 0
+			  },
+			  "operation": "string",
+			  "fdvOpList": [
+				{
+				  "sid_f": 0,
+				  "pnr_f": 0,
+				  "pnr_d": 0,
+				  "cod_t": 0,
+				  "dtip": 0,
+				  "stoinost": 0,
+				  "opisanie": "string",
+				  "mrk_akt": "string",
+				  "dat_vav": "2024-02-28",
+				  "operation": "string"
+				}
+			  ]
+			},
+			"sid_o": 0,
+			"pnr_o": 0,
+			"eknm": 0,
+			"kod_ul": 0,
+			"nomer": "string",
+			"vhod": "string",
+			"mrk_akt": "string",
+			"dat_vav": "2024-02-28",
+			"fadDop": {
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "pod_adr": 0,
+			  "vid_adr": 0,
+			  "etaj": "string",
+			  "apart": "string",
+			  "mrk_akt": "string",
+			  "opisanie": "string",
+			  "operation": "string"
+			},
+			"operation": "string"
+		  }
+		],
+		"nicknames": [
+		  {
+			"sid_o": 0,
+			"pnr_d": 0,
+			"cod_t": 0,
+			"priakor": "string",
+			"dat_vav": "2024-02-28",
+			"mrk_akt": "string",
+			"operation": "string"
+		  }
+		],
+		"personSlovesnoList": [
+		  {
+			"sid_o": 0,
+			"pnr_o": 0,
+			"pnr_d": 0,
+			"cod_t": 0,
+			"dtip": 0,
+			"dtip_txt": "string",
+			"stoinost": 0,
+			"opisanie": "string",
+			"dat_vav": "2024-02-28",
+			"mrk_akt": "string",
+			"operation": "string"
+		  }
+		],
+		"operation": "string",
+		"TYPE_OBJECT": "string",
+		"ime": "string",
+		"prezime": "string",
+		"familno": "string",
+		"egn": "string"
+	  },
+	  {
+		"fdv": {
+		  "sid_f": 0,
+		  "pnr_f": 0,
+		  "fact": 0,
+		  "cod_t": 0,
+		  "sid_o": 0,
+		  "pnr_o": 0,
+		  "rol_o": 0,
+		  "mrk_akt": "string",
+		  "podsist": 0,
+		  "dat": "2024-02-28",
+		  "cas": {
+			"hour": 0,
+			"minute": 0,
+			"second": 0,
+			"nano": 0
+		  },
+		  "operation": "string",
+		  "fdvOpList": [
+			{
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "pnr_d": 0,
+			  "cod_t": 0,
+			  "dtip": 0,
+			  "stoinost": 0,
+			  "opisanie": "string",
+			  "mrk_akt": "string",
+			  "dat_vav": "2024-02-28",
+			  "operation": "string"
+			}
+		  ]
+		},
+		"sid_o": 0,
+		"pnr_o": 0,
+		"pol": 0,
+		"pol_txt": "string",
+		"dat_vav": "2024-02-28",
+		"mrk_akt": "string",
+		"photo": {
+		  "sid_o": 0,
+		  "photo": "string",
+		  "operation": "string"
+		},
+		"addresses": [
+		  {
+			"fdv": {
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "fact": 0,
+			  "cod_t": 0,
+			  "sid_o": 0,
+			  "pnr_o": 0,
+			  "rol_o": 0,
+			  "mrk_akt": "string",
+			  "podsist": 0,
+			  "dat": "2024-02-28",
+			  "cas": {
+				"hour": 0,
+				"minute": 0,
+				"second": 0,
+				"nano": 0
+			  },
+			  "operation": "string",
+			  "fdvOpList": [
+				{
+				  "sid_f": 0,
+				  "pnr_f": 0,
+				  "pnr_d": 0,
+				  "cod_t": 0,
+				  "dtip": 0,
+				  "stoinost": 0,
+				  "opisanie": "string",
+				  "mrk_akt": "string",
+				  "dat_vav": "2024-02-28",
+				  "operation": "string"
+				}
+			  ]
+			},
+			"sid_o": 0,
+			"pnr_o": 0,
+			"eknm": 0,
+			"kod_ul": 0,
+			"nomer": "string",
+			"vhod": "string",
+			"mrk_akt": "string",
+			"dat_vav": "2024-02-28",
+			"fadDop": {
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "pod_adr": 0,
+			  "vid_adr": 0,
+			  "etaj": "string",
+			  "apart": "string",
+			  "mrk_akt": "string",
+			  "opisanie": "string",
+			  "operation": "string"
+			},
+			"operation": "string"
+		  }
+		],
+		"nicknames": [
+		  {
+			"sid_o": 0,
+			"pnr_d": 0,
+			"cod_t": 0,
+			"priakor": "string",
+			"dat_vav": "2024-02-28",
+			"mrk_akt": "string",
+			"operation": "string"
+		  }
+		],
+		"personSlovesnoList": [
+		  {
+			"sid_o": 0,
+			"pnr_o": 0,
+			"pnr_d": 0,
+			"cod_t": 0,
+			"dtip": 0,
+			"dtip_txt": "string",
+			"stoinost": 0,
+			"opisanie": "string",
+			"dat_vav": "2024-02-28",
+			"mrk_akt": "string",
+			"operation": "string"
+		  }
+		],
+		"operation": "string",
+		"TYPE_OBJECT": "string",
+		"graj": 0,
+		"nacBel": 0,
+		"vidDok": 0,
+		"nacPasp": "string",
+		"datIzd": "2024-02-28",
+		"datVal": "2024-02-28",
+		"imena": "string",
+		"datRaj": "2024-02-28",
+		"enc": "string",
+		"egn": "string",
+		"imek": "string"
+	  }
+	],
+	"employeeList": [
+	  {
+		"fdv": {
+		  "sid_f": 0,
+		  "pnr_f": 0,
+		  "fact": 0,
+		  "cod_t": 0,
+		  "sid_o": 0,
+		  "pnr_o": 0,
+		  "rol_o": 0,
+		  "mrk_akt": "string",
+		  "podsist": 0,
+		  "dat": "2024-02-28",
+		  "cas": {
+			"hour": 0,
+			"minute": 0,
+			"second": 0,
+			"nano": 0
+		  },
+		  "operation": "string",
+		  "fdvOpList": [
+			{
+			  "sid_f": 0,
+			  "pnr_f": 0,
+			  "pnr_d": 0,
+			  "cod_t": 0,
+			  "dtip": 0,
+			  "stoinost": 0,
+			  "opisanie": "string",
+			  "mrk_akt": "string",
+			  "dat_vav": "2024-02-28",
+			  "operation": "string"
+			}
+		  ]
+		},
+		"operation": "string",
+		"sid_o": 0,
+		"pnr_o": 0,
+		"sid_sl": 0,
+		"egn": "string",
+		"ime": "string",
+		"prezime": "string",
+		"familno": "string",
+		"tip_sl": 0,
+		"podl_loc": 0,
+		"rdvr": 0,
+		"dljn": 0,
+		"podl_sl": 0,
+		"mrk_akt": "string",
+		"dat_vav": "2024-02-28T09:20:38.597Z",
+		"last_login": "2024-02-28T09:20:38.597Z"
+	  }
+	],
+	"address": {
+	  "fdv": {
+		"sid_f": 0,
+		"pnr_f": 0,
+		"fact": 0,
+		"cod_t": 0,
+		"sid_o": 0,
+		"pnr_o": 0,
+		"rol_o": 0,
+		"mrk_akt": "string",
+		"podsist": 0,
+		"dat": "2024-02-28",
+		"cas": {
+		  "hour": 0,
+		  "minute": 0,
+		  "second": 0,
+		  "nano": 0
+		},
+		"operation": "string",
+		"fdvOpList": [
+		  {
+			"sid_f": 0,
+			"pnr_f": 0,
+			"pnr_d": 0,
+			"cod_t": 0,
+			"dtip": 0,
+			"stoinost": 0,
+			"opisanie": "string",
+			"mrk_akt": "string",
+			"dat_vav": "2024-02-28",
+			"operation": "string"
+		  }
+		]
+	  },
+	  "sid_o": 0,
+	  "pnr_o": 0,
+	  "eknm": 0,
+	  "kod_ul": 0,
+	  "nomer": "string",
+	  "vhod": "string",
+	  "mrk_akt": "string",
+	  "dat_vav": "2024-02-28",
+	  "fadDop": {
+		"sid_f": 0,
+		"pnr_f": 0,
+		"pod_adr": 0,
+		"vid_adr": 0,
+		"etaj": "string",
+		"apart": "string",
+		"mrk_akt": "string",
+		"opisanie": "string",
+		"operation": "string"
+	  },
+	  "operation": "string"
+	},
+	"operation": "string"
+  }

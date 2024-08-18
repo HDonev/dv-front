@@ -1,0 +1,360 @@
+{
+    "ddList": [
+      {
+        "sid_o": 326103,
+        "pnr_o": 1,
+        "vid_dk": 0,
+        "vid_dd": 0,
+        "reg_nom": "1080",
+        "pod_reg": 225,
+        "otnosno": "Заповед за НЗ",
+        "mrk_akt": "Y",
+        "dat_vav": "2023-11-07",
+        "ddOpList": [
+          {
+            "sid_o": 326103,
+            "pnr_o": 1,
+            "pnr_d": 1,
+            "dtip": 12,
+            "stoinost": 14,
+            "mrk_akt": "Y",
+            "dat_vav": "2023-11-01",
+            "opisanie": "Някакво ОП на ДД НЗ"
+          }
+        ],
+        "fdv": {
+          "mrk_akt": "Y",
+          "podsist": 34000,
+          "dat": "2023-11-16",
+          "cas": "14:33:37.3370493",
+          "operation": 0
+        },
+        "operation": 0
+      }
+    ],
+    "personList": [
+      {
+        "TYPE_OBJECT": "1",
+        "fdv": {
+          "sid_f": 324103,
+          "pnr_f": 3,
+          "fact": 8245,
+          "cod_t": 1,
+          "sid_o": 9552670001,
+          "pnr_o": 2,
+          "rol_o": 7982,
+          "mrk_akt": "Y",
+          "podsist": 34000,
+          "dat": "2023-11-07",
+          "cas": "16:16:00",
+          "operation": 0
+        },
+        "sid_o": 9552670001,
+        "pnr_o": 2,
+        "pol": 1,
+        "pol_txt": "ЖЕНА",
+        "dat_vav": "2023-11-02",
+        "mrk_akt": "Y",
+        "addresses": [
+          {
+            "fdv": {
+              "sid_f": 329103,
+              "pnr_f": 2,
+              "fact": 6248,
+              "cod_t": 17,
+              "sid_o": 328103,
+              "pnr_o": 1,
+              "rol_o": 18725,
+              "mrk_akt": "Y",
+              "podsist": 34000,
+              "dat": "2023-11-07",
+              "cas": "16:16:00",
+              "operation": 0
+            },
+            "sid_o": 328103,
+            "pnr_o": 1,
+            "eknm": 6813,
+            "kod_ul": 172485,
+            "vhod": "В",
+            "mrk_akt": "Y",
+            "dat_vav": "2023-11-07",
+            "fadDop": {
+              "sid_f": 329103,
+              "pnr_f": 2,
+              "pod_adr": 225,
+              "vid_adr": 18725,
+              "etaj": "50",
+              "apart": "20",
+              "mrk_akt": "Y",
+              "opisanie": null,
+              "operation": 0
+            },
+            "operation": 0
+          }
+        ],
+        "nicknames": [
+          {
+            "sid_o": 9552670001,
+            "pnr_d": 2,
+            "cod_t": 1,
+            "priakor": "СТЕЛИ",
+            "dat_vav": "2023-11-01",
+            "mrk_akt": "Y",
+            "operation": 0
+          },
+          {
+            "sid_o": 9552670001,
+            "pnr_d": 3,
+            "cod_t": 1,
+            "priakor": "ЖЕНАТА НА ИЦО ТИГЪРА ОТ КОТ ",
+            "dat_vav": "2023-11-01",
+            "mrk_akt": "Y",
+            "operation": 0
+          }
+        ],
+        "personSlovesnoList": [
+          {
+            "sid_o": 9552670001,
+            "pnr_o": 1,
+            "pnr_d": 1,
+            "cod_t": 1,
+            "dtip": 1,
+            "dtip_txt": "ТОЧКИ ЗА КОМУНИКАЦИЯ",
+            "stoinost": 2883,
+            "opisanie": "029363639",
+            "dat_vav": "2023-11-01",
+            "mrk_akt": "Y",
+            "operation": 0
+          }
+        ],
+        "operation": 0,
+        "ime": "СИБЕЛ",
+        "prezime": "БАХРИ",
+        "familno": "ИБРЯМ",
+        "egn": "8103267010"
+      },
+      {
+        "TYPE_OBJECT": "1",
+        "fdv": {
+          "sid_f": 324103,
+          "pnr_f": 5,
+          "fact": 8245,
+          "cod_t": 1,
+          "sid_o": 8830271001,
+          "pnr_o": 1,
+          "rol_o": 7989,
+          "mrk_akt": "Y",
+          "podsist": 34000,
+          "dat": "2023-11-07",
+          "cas": "16:16:00",
+          "operation": 0,
+          "fdvOpList": [
+            {
+              "sidF": 324103,
+              "pnrF": 5,
+              "pnrD": 1,
+              "codT": 1,
+              "dtip": 22581,
+              "stoinost": 12345,
+              "opisanie": "Дали работи????",
+              "mrkAkt": "Y",
+              "datVav": "2023-09-12"
+            },
+            {
+              "sidF": 324103,
+              "pnrF": 5,
+              "pnrD": 2,
+              "codT": 1,
+              "dtip": 11,
+              "stoinost": 22,
+              "opisanie": "Няма такава стойност",
+              "mrkAkt": "Y",
+              "datVav": "2023-09-12"
+            }
+          ]
+        },
+        "sid_o": 8830271001,
+        "pnr_o": 1,
+        "pol": 0,
+        "pol_txt": "МЪЖ",
+        "dat_vav": "2023-11-03",
+        "mrk_akt": "Y",
+        "addresses": [
+          {
+            "fdv": {
+              "sid_f": 331103,
+              "pnr_f": 2,
+              "fact": 6248,
+              "cod_t": 17,
+              "sid_o": 330103,
+              "pnr_o": 1,
+              "rol_o": 18725,
+              "mrk_akt": "Y",
+              "podsist": 34000,
+              "dat": "2023-11-07",
+              "cas": "16:16:00",
+              "operation": 0,
+              "fdvOpList": [
+                {
+                  "sidF": 331103,
+                  "pnrF": 2,
+                  "pnrD": 1,
+                  "codT": 1,
+                  "dtip": 22581,
+                  "stoinost": 12345,
+                  "opisanie": "Дали работи????",
+                  "mrkAkt": "Y",
+                  "datVav": "2023-09-12"
+                },
+                {
+                  "sidF": 331103,
+                  "pnrF": 2,
+                  "pnrD": 2,
+                  "codT": 1,
+                  "dtip": 11,
+                  "stoinost": 22,
+                  "opisanie": "Няма такава стойност",
+                  "mrkAkt": "Y",
+                  "datVav": "2023-09-12"
+                }
+              ]
+            },
+            "sid_o": 330103,
+            "pnr_o": 1,
+            "eknm": 6813,
+            "kod_ul": 172485,
+            "vhod": "В",
+            "mrk_akt": "Y",
+            "dat_vav": "2023-11-07",
+            "fadDop": {
+              "sid_f": 331103,
+              "pnr_f": 2,
+              "pod_adr": 225,
+              "vid_adr": 18725,
+              "etaj": "5",
+              "apart": "20",
+              "mrk_akt": "Y",
+              "opisanie": null,
+              "operation": 0
+            },
+            "operation": 0
+          },
+          {
+            "fdv": {
+              "sid_f": 332103,
+              "pnr_f": 2,
+              "fact": 14,
+              "cod_t": 17,
+              "sid_o": 327103,
+              "pnr_o": 1,
+              "rol_o": 18726,
+              "mrk_akt": "Y",
+              "podsist": 34000,
+              "dat": "2023-11-07",
+              "cas": "16:16:00",
+              "operation": 0
+            },
+            "sid_o": 327103,
+            "pnr_o": 1,
+            "eknm": 6813,
+            "kod_ul": 172485,
+            "vhod": "В",
+            "mrk_akt": "Y",
+            "dat_vav": "2023-11-07",
+            "operation": 0
+          },
+          {
+            "fdv": {
+              "sid_f": 333103,
+              "pnr_f": 2,
+              "fact": 22,
+              "cod_t": 17,
+              "sid_o": 327103,
+              "pnr_o": 1,
+              "rol_o": 5030,
+              "mrk_akt": "Y",
+              "podsist": 34000,
+              "dat": "2023-11-07",
+              "cas": "16:16:00",
+              "operation": 0
+            },
+            "sid_o": 327103,
+            "pnr_o": 1,
+            "eknm": 6813,
+            "kod_ul": 172485,
+            "vhod": "В",
+            "mrk_akt": "Y",
+            "dat_vav": "2023-11-07",
+            "fadDop": {
+              "sid_f": 333103,
+              "pnr_f": 2,
+              "pod_adr": 225,
+              "vid_adr": 5030,
+              "etaj": "5",
+              "apart": "20",
+              "mrk_akt": "Y",
+              "opisanie": null,
+              "operation": 0
+            },
+            "operation": 0
+          }
+        ],
+        "operation": 0,
+        "ime": "НЕДЯЛКО",
+        "prezime": "НИСТОРОВ",
+        "familno": "ГРЕБЧЕВ",
+        "egn": "7908066843"
+      }
+    ],
+    "employeeList": [
+      {
+        "fdv": null,
+        "operation": 0,
+        "sid_o": 8501513001,
+        "pnr_o": 1,
+        "sid_sl": 14048282100,
+        "egn": "8209225566",
+        "ime": "ЖИВКО",
+        "prezime": "ДИНКОВ",
+        "familno": "АЛЕКСАНДРОВ",
+        "tip_sl": 22577,
+        "podl_loc": 225,
+        "rdvr": 513,
+        "dljn": 5110,
+        "podl_sl": 225,
+        "tel_sluj": "27249",
+        "mtel_sluj": null,
+        "mrk_akt": "Y",
+        "dat_vav": "2023-01-01",
+        "last_login": "2023-01-01",
+        "last_login2": "2023-01-01"
+      }
+    ],
+    "address": {
+      "fdv": {
+        "sid_f": 324103,
+        "pnr_f": 2,
+        "fact": 8248,
+        "cod_t": 17,
+        "sid_o": 327103,
+        "pnr_o": 1,
+        "rol_o": 7580,
+        "mrk_akt": "Y",
+        "podsist": 34000,
+        "dat": "2023-11-07",
+        "cas": "16:16:00",
+        "operation": 0
+      },
+      "sid_o": 327103,
+      "pnr_o": 1,
+      "eknm": 6813,
+      "kod_ul": 172485,
+      "vhod": "В",
+      "mrk_akt": "Y",
+      "dat_vav": "2023-11-07",
+      "operation": 0
+    },
+    "permanentDefenceOrderSidF": 340103,
+    "instantDefenceOrderSidF": 324103,
+    "operation": 0
+  }

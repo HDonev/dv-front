@@ -1,0 +1,20 @@
+{
+	"hiera": {
+		"cod_zText": "ПОЛ",
+		"cod_z": 0,
+		"cod_i": 0,
+		"table": "all",
+		"row": [
+			{
+				"cod_z": "0",
+				"ime_z": "МЪЖ",
+				"valid": "0"
+			},
+			{
+				"cod_z": "1",
+				"ime_z": "ЖЕНА",
+				"valid": "0"
+			}
+		]
+	}
+}
